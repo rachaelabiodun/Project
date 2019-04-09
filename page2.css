@@ -1,3 +1,14 @@
+/*Header*/
+.header {
+  margin-top: 15px;
+  padding: 0px;
+  text-align: center;
+  background: #ffff;
+  color: #4A5851;
+  font-size: 20%;
+  font-family:impact;
+
+}
 /*CSS Document*/
  #big-space {
    height: 0px;
