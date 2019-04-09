@@ -9,3 +9,57 @@
   font-family:impact;
 
 }
+/*CSS Document*/
+ #big-space {
+   height: 0px;
+ }
+
+/*Header*/
+.header {
+  margin-top: 15px;
+  padding: 0px;
+  text-align: center;
+  background: #ffff;
+  color: #4A5851;
+  font-size: 20%;
+  font-family:impact;
+
+}
+
+
+
+/*NEW TAB*/
+.container{
+  width: 50%
+  margin: 0
+
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+display: inline-block;
+width: 10%;
+margin-left: 135px;
+margin-right: 100px;
+position: relative;
+}
+
+nav a {
+  color: #BEC4C1;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+
+/*PIC*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
