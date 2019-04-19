@@ -52,9 +52,10 @@ h2{
   margin: auto;
   padding: 20px;
   font-size: 200%;
-  font-family: impact;
-  color: #B8E1BA;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; ;
+  color: #ffff;
   text-align: center;
+  background-image: url("images/header.png");
 
 
 }
