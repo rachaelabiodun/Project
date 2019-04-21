@@ -11,13 +11,16 @@
   margin-top: 15px;
   padding: 0px;
   text-align: center;
-  background: #ffff;
   color: #4A5851;
   font-size: 20%;
   font-family:impact;
 
 }
 
+
+body{
+  background-image: url("images/gg.png");
+}
 
 
 /*NEW TAB*/
@@ -163,4 +166,19 @@ text-align: center;
   margin-right: 50%
   width: 33.3%;
   padding: 10px;
+}
+
+
+
+
+
+
+/*Footer*/
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
 }
