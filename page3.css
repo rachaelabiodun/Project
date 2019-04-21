@@ -169,16 +169,28 @@ text-align: center;
 }
 
 
+/*Hover for Links*/
+a:visited {
+  color: #96CF98;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 
 
 
 /*Footer*/
 .footer {
-   left: 0;
-   bottom: 0;
+   padding: 10px;
    width: 100%;
-   background-color: red;
-   color: white;
-   text-align: center;
+   background-color: #E5E5E5;
+   color: #7E7E7E;
+   text-align: right;
+   font-size: 9px;
 }
