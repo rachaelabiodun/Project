@@ -181,13 +181,71 @@ a:hover {
   text-decoration: underline;
 }
 
+/*Recipess*/
+
+.h6{
+margin-top: 30px;
+margin-left: 30px;
+padding: 15px;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+color:#4A6E3D;
+text-align:left;
+font-size: 25px;
+}
+
+.h7{
+margin-top: 50px;
+margin-right: 90px;
+padding: 0px;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+color:#4A6E3D;
+text-align:right;
+font-size: 25px;
+}
+
+
+.r1{
+  float: left;
+  padding: 1px;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+
+.r2{
+  float:right;
+  padding: 5px;
+  margin:auto;
+}
+
+
+.i{
+  color: #71846A;
+  padding: 0px;
+  margin: auto;
+  margin-top: auto;
+}
+
+.a{
+  color: #71846A;
+  padding: 0px;
+  margin: auto;
+  text-align: right;
+}
+
+
+
+
+
+
 
 
 
 
 /*Footer*/
 .footer {
-   padding: 10px;
+  margin: auto;
+   padding: 20px;
    width: 100%;
    background-color: #E5E5E5;
    color: #7E7E7E;
