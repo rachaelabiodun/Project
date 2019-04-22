@@ -59,6 +59,17 @@ h2{
 }
 
 
+/*Hover for Links*/
+a:visited {
+  color: #96CF98;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #B2B2B2;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 
 
