@@ -34,8 +34,8 @@ nav ul {
 nav li {
 display: inline-block;
 width: 7%;
-margin-left: 100px;
-margin-right: 170px;
+margin-left: 110px;
+margin-right: 20px;
 position: relative;
 }
 
@@ -56,4 +56,39 @@ h2{
  background-image: url("images/header.png");
 
 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Footer*/
+.footer {
+  margin: auto;
+   padding: 20px;
+   width: 100%;
+   background-color: #E5E5E5;
+   color: #7E7E7E;
+   text-align: right;
+   font-size: 9px;
 }
