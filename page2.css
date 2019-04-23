@@ -17,12 +17,13 @@
 }
 
 .blogtext {
-  background-color: black;
-  color: white;
-  margin: 20px;
+  margin: auto;
+  background-color: white;
   padding: 20px;
-  font-size: 15%;
-  text-align: left;
+  font-size: 500%;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  color: black;
+  text-align: center;
 }
 
 .importantmsg{

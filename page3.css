@@ -14,14 +14,13 @@
   color: #4A5851;
   font-size: 20%;
   font-family:impact;
-
+*#4A5851*
 }
-
 
 body{
   background-image: url("images/gg.png");
 }
-
+.boardercolour:white
 
 /*NEW TAB*/
 .container{
