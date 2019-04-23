@@ -26,7 +26,18 @@
 
 }
 
+.blogtext {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15%;
+  text-align: left;
+}
 
+.importantmsg{
+  font-style: italic;
+}
 
 /*NEW TAB*/
 .container{
